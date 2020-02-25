@@ -1,0 +1,37 @@
+{
+  "name": "eslint-formatter-mo",
+  "description": "",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "eslint fixtures -f ./ --fix",
+    "lint": "eslint lib -f ./"
+  },
+  "eslintConfig": {
+    "extends": "mo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzilong/eslint-formatter-mo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengzilong/eslint-formatter-mo/issues"
+  },
+  "homepage": "https://github.com/fengzilong/eslint-formatter-mo#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "emphasize": "^3.0.0",
+    "plur": "^4.0.0",
+    "string-width": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-mo": "^0.5.2"
+  }
+}
