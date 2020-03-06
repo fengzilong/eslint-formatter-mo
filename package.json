@@ -1,6 +1,6 @@
 {
   "name": "eslint-formatter-mo",
-  "description": "",
+  "description": "Good-lookin' ESLint formatter for delightful readability",
   "version": "1.0.0",
   "main": "lib/index.js",
   "files": [
@@ -17,7 +17,14 @@
     "type": "git",
     "url": "git+https://github.com/fengzilong/eslint-formatter-mo.git"
   },
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "formatter",
+    "eslint formatter",
+    "pretty",
+    "fancy",
+    "readability"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
