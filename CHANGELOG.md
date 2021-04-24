@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.0.0...v1.0.1) (2021-04-24)
+
+
+### Bug Fixes
+
+* bump emphasize version ([5c2c434](https://github.com/fengzilong/eslint-formatter-mo/commit/5c2c43437ad275898fced4a10c41224cb3c35385))
+
 # 1.0.0 (2020-03-05)
 
 
