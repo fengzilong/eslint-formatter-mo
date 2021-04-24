@@ -33,7 +33,7 @@
   "homepage": "https://github.com/fengzilong/eslint-formatter-mo#readme",
   "dependencies": {
     "chalk": "^3.0.0",
-    "emphasize": "^3.0.0",
+    "emphasize": "^4.2.0",
     "gradient-string": "^1.2.0",
     "plur": "^4.0.0",
     "string-width": "^4.2.0"

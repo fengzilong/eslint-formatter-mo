@@ -1141,14 +1141,14 @@ emoji-regex@^8.0.0:
   resolved "https://registry.nlark.com/emoji-regex/download/emoji-regex-8.0.0.tgz#e818fd69ce5ccfcb404594f842963bf53164cc37"
   integrity sha1-6Bj9ac5cz8tARZT4QpY79TFkzDc=
 
-emphasize@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npm.taobao.org/emphasize/download/emphasize-3.0.0.tgz#352f5dc2b775609fac9b18916fcaea35b7bfae7e"
-  integrity sha1-NS9dwrd1YJ+smxiRb8rqNbe/rn4=
+emphasize@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.npm.taobao.org/emphasize/download/emphasize-4.2.0.tgz#6b6fdc4d212cb7eafea1c7cdd595dfd6cfc508d9"
+  integrity sha1-a2/cTSEst+r+ocfN1ZXf1s/FCNk=
   dependencies:
-    chalk "^3.0.0"
-    highlight.js "~9.12.0"
-    lowlight "~1.9.0"
+    chalk "^4.0.0"
+    highlight.js "~10.4.0"
+    lowlight "~1.17.0"
 
 encoding@^0.1.12:
   version "0.1.13"
@@ -1398,7 +1398,7 @@ fastq@^1.6.0:
   dependencies:
     reusify "^1.0.4"
 
-fault@^1.0.2:
+fault@^1.0.0:
   version "1.0.4"
   resolved "https://registry.npm.taobao.org/fault/download/fault-1.0.4.tgz#eafcfc0a6d214fc94601e170df29954a4f842f13"
   integrity sha1-6vz8Cm0hT8lGAeFw3ymVSk+ELxM=
@@ -1681,10 +1681,10 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-highlight.js@~9.12.0:
-  version "9.12.0"
-  resolved "https://registry.nlark.com/highlight.js/download/highlight.js-9.12.0.tgz#e6d9dbe57cbefe60751f02af336195870c90c01e"
-  integrity sha1-5tnb5Xy+/mB1HwKvM2GVhwyQwB4=
+highlight.js@~10.4.0:
+  version "10.4.1"
+  resolved "https://registry.nlark.com/highlight.js/download/highlight.js-10.4.1.tgz#d48fbcf4a9971c4361b3f95f302747afe19dbad0"
+  integrity sha1-1I+89KmXHENhs/lfMCdHr+GdutA=
 
 hook-std@^2.0.0:
   version "2.0.0"
@@ -2306,13 +2306,13 @@ lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.4:
   resolved "https://registry.nlark.com/lodash/download/lodash-4.17.21.tgz?cache=0&sync_timestamp=1618847150612&other_urls=https%3A%2F%2Fregistry.nlark.com%2Flodash%2Fdownload%2Flodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha1-Z5WRxWTDv/quhFTPCz3zcMPWkRw=
 
-lowlight@~1.9.0:
-  version "1.9.2"
-  resolved "https://registry.npm.taobao.org/lowlight/download/lowlight-1.9.2.tgz#0b9127e3cec2c3021b7795dd81005c709a42fdd1"
-  integrity sha1-C5En487CwwIbd5XdgQBccJpC/dE=
+lowlight@~1.17.0:
+  version "1.17.0"
+  resolved "https://registry.npm.taobao.org/lowlight/download/lowlight-1.17.0.tgz#a1143b2fba8239df8cd5893f9fe97aaf8465af4a"
+  integrity sha1-oRQ7L7qCOd+M1Yk/n+l6r4Rlr0o=
   dependencies:
-    fault "^1.0.2"
-    highlight.js "~9.12.0"
+    fault "^1.0.0"
+    highlight.js "~10.4.0"
 
 lru-cache@^6.0.0:
   version "6.0.0"
