@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.0.1...v1.1.0) (2021-10-01)
+
+
+### Features
+
+* use full width - and full height │ ([c35aae6](https://github.com/fengzilong/eslint-formatter-mo/commit/c35aae68a6dd08fde074c43a25fa6699b9836078))
+
 ## [1.0.1](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.0.0...v1.0.1) (2021-04-24)
 
 
