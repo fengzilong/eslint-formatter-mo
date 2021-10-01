@@ -9,9 +9,6 @@ Good-lookin' ESLint formatter
 
 <img src="media/screenshot.jpg" alt="screenshot" width="500px">
 
-<br />
-<br />
-
 🎊 Obviously it's more human-readable 🎉🎉🎉
 
 # Features
@@ -51,8 +48,7 @@ See [ESLint Formatters](https://eslint.org/docs/user-guide/formatters/#eslint-fo
 # More screenshots
 
 <img src="media/file-level-summary.jpg" alt="file-level-summary" width="300px">
-<br />
-<br />
+
 <img src="media/summary.jpg" alt="summary" width="300px">
 
 # License
