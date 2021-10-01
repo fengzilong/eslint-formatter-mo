@@ -7,19 +7,24 @@
 
 Good-lookin' ESLint formatter
 
-# Preview
+<img src="media/screenshot.jpg" alt="screenshot" width="500px">
 
-### group by file
+<br />
+<br />
 
-<img src="media/snapshot.jpg" alt="snapshot" width="500px">
+🎊 Obviously it's more human-readable 🎉🎉🎉
 
-### auto fixable is marked
+# Features
 
-<img src="media/auto-fixable.jpg" alt="snapshot" width="500px">
+- 🎯 Line number
+- 🌈 Code highlight
+- ⚓️ Position pointer
+- 🦄 Error/Warning detail
+- 🍻 Auto-fixable is also marked
+- 📄 File-level summary
+- 📋 Total summary
 
-### summary
 
-<img src="media/summary.jpg" alt="snapshot" width="300px">
 
 # Installation
 
@@ -35,11 +40,20 @@ npm i eslint-formatter-mo -D
 
 # Usage
 
-Simply append `-f mo` to your eslint command 
+Simply append `-f mo` to your eslint command
 
-`eslint [directory] -f mo`
+`eslint [patterns] -f mo`
 
-It should works
+> -f is short for --format
+
+See [ESLint Formatters](https://eslint.org/docs/user-guide/formatters/#eslint-formatters) for detail
+
+# More screenshots
+
+<img src="media/file-level-summary.jpg" alt="file-level-summary" width="300px">
+<br />
+<br />
+<img src="media/summary.jpg" alt="summary" width="300px">
 
 # License
 

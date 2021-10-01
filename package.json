@@ -7,7 +7,7 @@
     "lib"
   ],
   "scripts": {
-    "test": "eslint fixtures -f ./ --fix",
+    "fixture": "eslint fixtures -f ./",
     "lint": "eslint lib -f ./"
   },
   "eslintConfig": {
