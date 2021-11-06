@@ -7,7 +7,7 @@
 
 Good-lookin' ESLint formatter
 
-<img src="media/screenshot.jpg" alt="screenshot" width="500px">
+<img src="media/screenshot.jpg" alt="screenshot" width="700px">
 
 🎊 Obviously it's more human-readable 🎉🎉🎉
 

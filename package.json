@@ -19,8 +19,9 @@
   },
   "keywords": [
     "eslint",
+    "eslint-formatter",
+    "eslintformatter",
     "formatter",
-    "eslint formatter",
     "pretty",
     "fancy",
     "readability"
