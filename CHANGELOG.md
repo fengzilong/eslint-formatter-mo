@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.2.0...v1.2.1) (2024-12-26)
+
+
+### Bug Fixes
+
+* remove bgBlack which makes text invisible in white background terminal ([19c732b](https://github.com/fengzilong/eslint-formatter-mo/commit/19c732be084f4513bcdbe3aa7ba5c14573fbfa4a))
+
 # [1.2.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.1.0...v1.2.0) (2022-08-31)
 
 
