@@ -26,7 +26,7 @@
     "fancy",
     "readability"
   ],
-  "author": "",
+  "author": "fengzilong",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fengzilong/eslint-formatter-mo/issues"
@@ -37,7 +37,8 @@
     "emphasize": "^4.2.0",
     "gradient-string": "^1.2.0",
     "plur": "^4.0.0",
-    "string-width": "^4.2.0"
+    "string-width": "^4.2.0",
+    "terminal-link": "^2.1.1"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.0",
