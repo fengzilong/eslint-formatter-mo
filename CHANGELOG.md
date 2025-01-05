@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.2.1...v1.3.0) (2025-01-05)
+
+
+### Features
+
+* support hyperlink for file ([ff6f095](https://github.com/fengzilong/eslint-formatter-mo/commit/ff6f09505afb91fc81b8d9ea0db43cb57fca03ac))
+
 ## [1.2.1](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.2.0...v1.2.1) (2024-12-26)
 
 
