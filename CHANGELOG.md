@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.3.0...v1.3.1) (2025-01-07)
+
+
+### Bug Fixes
+
+* parsing error is not displayed ([#30](https://github.com/fengzilong/eslint-formatter-mo/issues/30)) ([1fd2f00](https://github.com/fengzilong/eslint-formatter-mo/commit/1fd2f0029d5941cbefeadbe0fc3862d264061c8f)), closes [#29](https://github.com/fengzilong/eslint-formatter-mo/issues/29)
+
 # [1.3.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.2.1...v1.3.0) (2025-01-05)
 
 
