@@ -47,7 +47,7 @@ See [ESLint Formatters](https://eslint.org/docs/latest/use/formatters/#eslint-fo
 
 Thanks to [shiki](https://github.com/shikijs/shiki), we now support 50+ VSCode syntax themes in v2.
 
-And you can choose your favorite theme by specify `MO_THEME` environment variable.
+And you can choose your favorite theme by specifying `MO_THEME` environment variable.
 
 ```shell
 MO_THEME=<theme_id> eslint [patterns] -f mo
