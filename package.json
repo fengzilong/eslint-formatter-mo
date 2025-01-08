@@ -8,7 +8,7 @@
     "lib"
   ],
   "scripts": {
-    "fixture": "MO_THEME=x eslint fixtures -f mo",
+    "fixture": "eslint fixtures -f mo",
     "lint": "eslint lib -f mo",
     "lint:fix": "eslint lib -f mo --fix"
   },

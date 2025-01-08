@@ -25,7 +25,7 @@ Good-lookin' ESLint formatter
 - 🍻 Auto-fixable is also marked
 - 📄 File-level summary
 - 📋 Total summary
-- 🥳 **Support VSCode themes (New feature from v2)**
+- 🥳 **Support 50+ VSCode Syntax themes (New feature from v2)**
 
 # Installation
 
@@ -45,15 +45,24 @@ See [ESLint Formatters](https://eslint.org/docs/latest/use/formatters/#eslint-fo
 
 # Themes
 
-Thanks to [shiki](https://github.com/shikijs/shiki), we ship VSCode syntax themes support from v2.
+Thanks to [shiki](https://github.com/shikijs/shiki), we now support 50+ VSCode syntax themes in v2.
 
-You can choose your favorite theme by specify `MO_THEME` environment variable.
+And you can choose your favorite theme by specify `MO_THEME` environment variable.
 
 ```shell
 MO_THEME=<theme_id> eslint [patterns] -f mo
 ```
 
-Find all available themes [here](https://shiki.style/themes).
+theme_id | preview |
+---------|----------
+ one-dark-pro | <img src="./media/themes/one-dark-pro.jpg" alt="one-dark-pro" width="260" />
+ dracula | <img src="./media/themes/dracula.jpg" alt="dracula" width="260" />
+ night-owl | <img src="./media/themes/night-owl.jpg" alt="night-owl" width="260" />
+ vitesse-dark | <img src="./media/themes/vitesse-dark.jpg" alt="vitesse-dark" width="260" />
+ nord | <img src="./media/themes/nord.jpg" alt="nord" width="260" />
+ ... | ...
+
+[Here](https://shiki.style/themes) you can find all the 50+ themes.
 
 # More screenshots
 
