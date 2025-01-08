@@ -11,6 +11,11 @@ Good-lookin' ESLint formatter
 
 🎊 Obviously it's more human-readable 🎉🎉🎉
 
+> [!NOTE]
+> This library was moved to ESM from v2.
+> 
+> If ESM doesn't work well with your Node.js version, check the 1.x version for CJS compatibility.
+
 # Features
 
 - 🎯 Line number
@@ -20,18 +25,11 @@ Good-lookin' ESLint formatter
 - 🍻 Auto-fixable is also marked
 - 📄 File-level summary
 - 📋 Total summary
-
-
+- 🥳 **Support VSCode themes (New feature from v2)**
 
 # Installation
 
-```bash
-yarn add eslint-formatter-mo --dev
-```
-
-or
-
-```bash
+```shell
 npm i eslint-formatter-mo -D
 ```
 
@@ -43,7 +41,19 @@ Simply append `-f mo` to your eslint command
 
 > -f is short for --format
 
-See [ESLint Formatters](https://eslint.org/docs/user-guide/formatters/#eslint-formatters) for detail
+See [ESLint Formatters](https://eslint.org/docs/latest/use/formatters/#eslint-formatters) for detail
+
+# Themes
+
+Thanks to [shiki](https://github.com/shikijs/shiki), we ship VSCode syntax themes support from v2.
+
+You can choose your favorite theme by specify `MO_THEME` environment variable.
+
+```shell
+MO_THEME=<theme_id> eslint [patterns] -f mo
+```
+
+Find all available themes [here](https://shiki.style/themes).
 
 # More screenshots
 
