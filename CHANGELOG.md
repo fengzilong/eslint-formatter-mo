@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.3.1...v2.0.0) (2025-01-08)
+
+
+### Features
+
+* use shiki to highlight code and move to ESM ([#31](https://github.com/fengzilong/eslint-formatter-mo/issues/31)) ([17cd74c](https://github.com/fengzilong/eslint-formatter-mo/commit/17cd74cdfe8c6df1ef59e99bb6b7b659ca180981))
+
+
+### BREAKING CHANGES
+
+* move to ESM
+
 ## [1.3.1](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.3.0...v1.3.1) (2025-01-07)
 
 
