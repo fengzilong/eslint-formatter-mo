@@ -55,11 +55,11 @@ MO_THEME=<theme_id> eslint [patterns] -f mo
 
 theme_id | preview |
 ---------|----------
- one-dark-pro | <img src="./media/themes/one-dark-pro.jpg" alt="one-dark-pro" width="260" />
- dracula | <img src="./media/themes/dracula.jpg" alt="dracula" width="260" />
- night-owl | <img src="./media/themes/night-owl.jpg" alt="night-owl" width="260" />
- vitesse-dark | <img src="./media/themes/vitesse-dark.jpg" alt="vitesse-dark" width="260" />
- nord | <img src="./media/themes/nord.jpg" alt="nord" width="260" />
+ one-dark-pro | <img src="./media/themes/one-dark-pro.jpg" alt="one-dark-pro" width="360" />
+ dracula | <img src="./media/themes/dracula.jpg" alt="dracula" width="360" />
+ night-owl | <img src="./media/themes/night-owl.jpg" alt="night-owl" width="360" />
+ vitesse-dark | <img src="./media/themes/vitesse-dark.jpg" alt="vitesse-dark" width="360" />
+ nord | <img src="./media/themes/nord.jpg" alt="nord" width="360" />
  ... | ...
 
 [Here](https://shiki.style/themes) you can find all the 50+ themes.
