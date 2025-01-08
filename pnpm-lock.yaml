@@ -17,9 +17,6 @@ importers:
       chalk:
         specifier: ^5.4.1
         version: 5.4.1
-      emphasize:
-        specifier: ^7.0.0
-        version: 7.0.0
       gradient-string:
         specifier: ^3.0.0
         version: 3.0.0
@@ -618,9 +615,6 @@ packages:
   emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
 
-  emphasize@7.0.0:
-    resolution: {integrity: sha512-jdFCDyt+YetBXO12VwK4AiLsMCvkZ3IBxMVIJddB+25EwIL0VETBgpvPkJl63+JyAgaQ5Wja10qWMoXXC95JNg==}
-
   enhanced-resolve@5.18.0:
     resolution: {integrity: sha512-0/r0MySGYG8YqlayBZ6MuCfECmHFdJ5qyPh8s8wa5Hnm6SaFLSK1VYCbj+NKp090Nm1caZhD+QTnmxO7esYGyQ==}
     engines: {node: '>=10.13.0'}
@@ -867,10 +861,6 @@ packages:
   hast-util-whitespace@3.0.0:
     resolution: {integrity: sha512-88JUN06ipLwsnv+dVn+OIYOvAuvBMy/Qoi6O7mQHxdPXpjy+Cd6xRkWwux7DKO+4sYILtLBRIKgsdpS2gQc7qw==}
 
-  highlight.js@11.9.0:
-    resolution: {integrity: sha512-fJ7cW7fQGCYAkgv4CPfwFHrfd/cLS4Hau96JuJ+ZTOWhjnhoeN1ub1tFmALm/+lW5z4WCAuAV9bm05AP0mS6Gw==}
-    engines: {node: '>=12.0.0'}
-
   hook-std@2.0.0:
     resolution: {integrity: sha512-zZ6T5WcuBMIUVh49iPQS9t977t7C0l7OtHrpeMb5uk48JdflRX0NSFvCekfYNmGQETnLq9W/isMyHl69kxGi8g==}
     engines: {node: '>=8'}
@@ -1085,9 +1075,6 @@ packages:
 
   lodash@4.17.21:
     resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
-
-  lowlight@3.1.0:
-    resolution: {integrity: sha512-CEbNVoSikAxwDMDPjXlqlFYiZLkDJHwyGu/MfOsJnF3d7f3tds5J3z8s/l9TMXhzfsJCCJEAsD78842mwmg0PQ==}
 
   lru-cache@6.0.0:
     resolution: {integrity: sha512-Jo6dJ04CmSjuznwJSS3pUeWmd/H0ffTlkXXgwZi+eq1UCmqQwCh+eLsYOYCwY991i2Fah4h1BEMCx4qThGbsiA==}
@@ -2528,13 +2515,6 @@ snapshots:
 
   emoji-regex@8.0.0: {}
 
-  emphasize@7.0.0:
-    dependencies:
-      '@types/hast': 3.0.4
-      chalk: 5.4.1
-      highlight.js: 11.9.0
-      lowlight: 3.1.0
-
   enhanced-resolve@5.18.0:
     dependencies:
       graceful-fs: 4.2.11
@@ -2845,8 +2825,6 @@ snapshots:
     dependencies:
       '@types/hast': 3.0.4
 
-  highlight.js@11.9.0: {}
-
   hook-std@2.0.0: {}
 
   hosted-git-info@2.8.9: {}
@@ -3022,12 +3000,6 @@ snapshots:
   lodash.uniqby@4.7.0: {}
 
   lodash@4.17.21: {}
-
-  lowlight@3.1.0:
-    dependencies:
-      '@types/hast': 3.0.4
-      devlop: 1.1.0
-      highlight.js: 11.9.0
 
   lru-cache@6.0.0:
     dependencies:
