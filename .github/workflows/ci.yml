@@ -1,6 +1,5 @@
-name: Lint
+name: Pull Request CI
 on:
-  push:
   pull_request:
     branches:
       - master
@@ -9,7 +8,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node-version: [18.x, 22.x]
+        node-version: [22.x]
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v4
