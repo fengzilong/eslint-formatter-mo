@@ -1,7 +1,7 @@
 {
   "name": "eslint-formatter-mo",
   "description": "Good-lookin' ESLint formatter for delightful readability",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "type": "module",
   "exports": {
     "import": "./lib/index.js",

@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v2.0.0...v2.1.0) (2025-01-15)
+
+
+### Features
+
+* add CJS entry ([12038f8](https://github.com/fengzilong/eslint-formatter-mo/commit/12038f8c8a2f4094d5237cfa2c49c67f41423901))
+
 # [2.0.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v1.3.1...v2.0.0) (2025-01-08)
 
 
