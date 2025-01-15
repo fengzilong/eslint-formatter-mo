@@ -14,7 +14,7 @@ Good-lookin' ESLint formatter
 > [!NOTE]
 > This library was moved to ESM from v2.
 > 
-> If ESM doesn't work well with your Node.js version, check the 1.x version for CJS compatibility.
+> If v2 doesn't work well with your Node.js version, check the 1.x version for better compatibility.
 
 # Features
 
