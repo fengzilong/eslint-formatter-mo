@@ -3,7 +3,10 @@
   "description": "Good-lookin' ESLint formatter for delightful readability",
   "version": "2.0.0",
   "type": "module",
-  "exports": "./lib/index.js",
+  "exports": {
+    "import": "./lib/index.js",
+    "require": "./lib/index.cjs"
+  },
   "files": [
     "lib"
   ],
