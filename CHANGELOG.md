@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v2.1.0...v2.2.0) (2025-01-23)
+
+
+### Features
+
+* sort files by errorCount and warningCount ([cda839c](https://github.com/fengzilong/eslint-formatter-mo/commit/cda839cf017b8dc1e92f1d8a09eb2390264e8c13))
+
 # [2.1.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v2.0.0...v2.1.0) (2025-01-15)
 
 
