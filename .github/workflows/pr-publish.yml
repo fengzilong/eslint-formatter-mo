@@ -28,6 +28,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      # https://vercel.com/guides/corepack-errors-github-actions
+      - run: npm install -g corepack@latest
       - run: corepack enable
       - uses: actions/setup-node@v4
         with:

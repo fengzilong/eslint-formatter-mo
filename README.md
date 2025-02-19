@@ -77,12 +77,15 @@ theme_id | preview |
 ## More languages
 
 JSON
+
 <img src="media/json.jpg" alt="JSON" width="300px" />
 
 Markdown
+
 <img src="media/markdown.jpg" alt="Markdown" width="300px" />
 
 CSS
+
 <img src="media/css.jpg" alt="CSS" width="300px" />
 
 # License

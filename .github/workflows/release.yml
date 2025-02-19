@@ -27,7 +27,10 @@ jobs:
             ${{ runner.os }}-${{ matrix.node-version }}-test-${{ env.cache-name }}-
             ${{ runner.os }}-${{ matrix.node-version }}-test-
             ${{ runner.os }}-
-      - run: corepack enable
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.1
       - run: pnpm i
         env:
           COREPACK_ENABLE_DOWNLOAD_PROMPT: 0
@@ -53,6 +56,8 @@ jobs:
             ${{ runner.os }}-${{ matrix.node-version }}-release-${{ env.cache-name }}-
             ${{ runner.os }}-${{ matrix.node-version }}-release-
             ${{ runner.os }}-
+      # https://vercel.com/guides/corepack-errors-github-actions
+      - run: npm install -g corepack@latest
       - run: corepack enable
       - run: pnpm i
         env:
