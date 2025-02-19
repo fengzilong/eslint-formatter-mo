@@ -27,6 +27,7 @@ Good-lookin' ESLint formatter
 - 📄 File-level summary
 - 📋 Total summary
 - 🥳 **Support 50+ VSCode Syntax themes (New feature from v2)**
+- 🎊 **Support JSON/Markdown/CSS syntax highlighting (New feature from v2)**
 
 # Installation
 
@@ -67,9 +68,22 @@ theme_id | preview |
 
 # More screenshots
 
-<img src="media/file-level-summary.jpg" alt="file-level-summary" width="300px">
+## Summary
 
-<img src="media/summary.jpg" alt="summary" width="300px">
+<img src="media/file-level-summary.jpg" alt="file-level-summary" width="300px" />
+
+<img src="media/summary.jpg" alt="summary" width="300px" />
+
+## More languages
+
+JSON
+<img src="media/json.jpg" alt="JSON" width="300px" />
+
+Markdown
+<img src="media/markdown.jpg" alt="Markdown" width="300px" />
+
+CSS
+<img src="media/css.jpg" alt="CSS" width="300px" />
 
 # License
 
