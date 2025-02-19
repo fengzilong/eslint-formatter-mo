@@ -26,6 +26,8 @@ jobs:
             ${{ runner.os }}-${{ matrix.node-version }}-test-${{ env.cache-name }}-
             ${{ runner.os }}-${{ matrix.node-version }}-test-
             ${{ runner.os }}-
+      # https://vercel.com/guides/corepack-errors-github-actions
+      - run: npm install -g corepack@latest
       - run: corepack enable
       - run: pnpm i
         env:
