@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v2.2.0...v2.3.0) (2025-02-19)
+
+
+### Features
+
+* support JSON/Markdown/CSS highlighting ([#34](https://github.com/fengzilong/eslint-formatter-mo/issues/34)) ([5c676b3](https://github.com/fengzilong/eslint-formatter-mo/commit/5c676b38c23f542410295bd8e90cd3b27eed6cd4))
+
 # [2.2.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v2.1.0...v2.2.0) (2025-01-23)
 
 
