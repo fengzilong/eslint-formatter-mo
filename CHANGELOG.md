@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v2.3.0...v2.4.0) (2025-11-07)
+
+
+### Features
+
+* add link for ruleId ([211d019](https://github.com/fengzilong/eslint-formatter-mo/commit/211d019cae9d38211ddd5c7149c8216ebf61b545))
+
 # [2.3.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v2.2.0...v2.3.0) (2025-02-19)
 
 
