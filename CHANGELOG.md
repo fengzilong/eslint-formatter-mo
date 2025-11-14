@@ -1,3 +1,10 @@
+## [2.4.1](https://github.com/fengzilong/eslint-formatter-mo/compare/v2.4.0...v2.4.1) (2025-11-14)
+
+
+### Bug Fixes
+
+* fix Cannot access 'ruleId' before initialization ([580ab76](https://github.com/fengzilong/eslint-formatter-mo/commit/580ab76d1e85f914decc749a55b17e33396899c1))
+
 # [2.4.0](https://github.com/fengzilong/eslint-formatter-mo/compare/v2.3.0...v2.4.0) (2025-11-07)
 
 
